@@ -1,0 +1,21 @@
+Starting new HTTPS connection (1): emea.salesforce.com
+Starting new HTTPS connection (1): emea.salesforce.com
+Starting new HTTPS connection (1): emea.salesforce.com
+Starting new HTTPS connection (1): emea.salesforce.com
+Starting new HTTPS connection (1): emea.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00Dw0000000lXEN!AR0AQKbpQMCKVwZFfo3nMIdPEfjOiDLFLaKkib3RTOWx8dNWGc.hJFbtTlM2KVIHSNrSZOIBes4R02cESw5O9z_CS8GGFz2N</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): eu3.salesforce.com
+Starting new HTTPS connection (1): eu3.salesforce.com
+Starting new HTTPS connection (1): eu3.salesforce.com
+Starting new HTTPS connection (1): eu3.salesforce.com
+Starting new HTTPS connection (1): eu3.salesforce.com

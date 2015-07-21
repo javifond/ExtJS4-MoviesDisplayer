@@ -1,0 +1,10 @@
+{
+    "name": "Movies",
+
+    "requires": [
+        "ff-code-lib",
+        "ff-theme-cobalt"
+    ],
+
+    "id": "47e4b44b-da23-4c20-a441-805bf25dd0be"
+}
